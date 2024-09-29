@@ -9,9 +9,10 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-image: url(./assets/0\ \(2\).jpg);
-  /* background-repeat: no-repeat; */
-  background-size: 100% 61%;
+  background-image: url(./assets/bg1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 html {
   scroll-behavior: smooth;
@@ -38,30 +39,15 @@ a,
   padding: 10px;
  
 }
-marquee{
-  font-size: 50px;
-  font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-weight: bolder;
-  animation: apt 5s linear infinite;
-}
-@keyframes apt{
-    0%{
-        opacity: 1;
-        color: rgb(0, 0, 0);
-    }
-    50%{
-        opacity: 0;
-        color: rgb(255, 255, 255);
-    }
-    100%{
-        opacity: 1;
-        color: rgb(255, 255, 255);
-    }
-}
+
 .logo {
   align-items:first baseline;
   opacity: 10;
-  width: 1000px;
+  font-size: 40px;
+  font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  color: white;
+  text-align: left;
   }
     
 .logo:hover {
@@ -100,8 +86,8 @@ a:hover {
 }
 
 .section__pic-contai{
-  height: 550px;
-  width: 550px;
+  height: 500px;
+  width: 500px;
   margin-top: 60px;
   margin-right: -120px;
   border-radius: 300px;
@@ -349,7 +335,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: none;
+  background: rgba(255, 255, 255, 0.641);
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgba(93, 93, 101, 0.279);
@@ -359,6 +345,13 @@ section {
 .section-container {
   gap: 4rem;
   height: 80%;
+}
+.text-container{
+  padding: 1rem;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.459);
+  padding: auto;
+
 }
 
 
