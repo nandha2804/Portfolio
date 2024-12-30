@@ -1,3 +1,4 @@
+
 /* GENERAL */
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
@@ -355,7 +356,28 @@ section {
 }
 
 
-/* EXPERIENCE SECTION */
+/* EXPERIENCE & skills SECTION */
+
+articlee {
+  width: 12rem;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+articlee .icon {
+  cursor: default;
+}
+
+
+.details-containerr {
+  padding: 1.5rem;
+  flex: 1;
+  background: rgba(255, 255, 255, 0.641);
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgba(93, 93, 101, 0.279);
+}
+
 
 #experience {
   position: relative;  
@@ -393,6 +415,7 @@ article {
 article .icon {
   cursor: default;
 }
+
 
 /* PROJECTS SECTION */
 
