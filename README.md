@@ -79,9 +79,9 @@ I have successfully completed various certifications to enhance my knowledge and
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KIRAN-KUMAR-K3&theme=highcontrast&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nandha2804&theme=highcontrast&hide_border=false)
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KIRAN-KUMAR-K3&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-[![@kirankumark3's Holopin board](https://holopin.me/kirankumark3)](https://holopin.io/@kirankumark3)
---- -->
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nandha2804&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+[![@nandha2804's Holopin board](https://holopin.me/nandha2804)](https://holopin.io/@nandha2804)
+
